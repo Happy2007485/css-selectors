@@ -1,0 +1,34 @@
+.Number-1 {
+background-color: red;
+margin: 20px 0;
+padding: 2px;
+font-size: 20px;
+}
+
+#Number-2{
+color: rgb(31, 31, 224);
+    
+}
+
+.Number-3 {
+background-color: rgb(240, 121, 151);
+font-size: 25px;
+margin: 10px 0;
+padding: 5px;
+}
+
+#Number-4 {
+background-color:green;
+font-size: 20px;
+padding: 5px;
+margin:20px 0;
+
+}
+
+.Number-5{
+    background-color: pink;
+    font-size: 20px;
+
+}
+
+}
