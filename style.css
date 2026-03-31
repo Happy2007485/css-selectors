@@ -1,34 +1,38 @@
 .Number-1 {
-background-color: red;
+background-color: hwb(0 0% 0%);
 margin: 20px 0;
-padding: 2px;
+padding: 1%;
 font-size: 20px;
+font-family: verdana,Dejavu sans,sans-serif;
 }
 
 #Number-2{
-color: rgb(31, 31, 224);
+color: #1f1fe0;
+font-size: 36px;
+margin: 30px 0;
     
 }
 
 .Number-3 {
 background-color: rgb(240, 121, 151);
-font-size: 25px;
+font-size: 24px;
 margin: 10px 0;
 padding: 5px;
+font-family: verdana,Dejavu sans,sans-serif;
 }
 
 #Number-4 {
-background-color:green;
-font-size: 20px;
+background-color:hsl(120, 100%, 25%);
+font-size: 24px;
 padding: 5px;
 margin:20px 0;
 
 }
 
-.Number-5{
-    background-color: pink;
+.Number-5 {
+    background-color: rgb(255, 192, 203);
     font-size: 20px;
-
+    margin: 10px 0;
+    padding: 1px;
 }
 
-}
